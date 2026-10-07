@@ -1,0 +1,7 @@
+accessWidener v2 official
+
+accessible field com/mojang/blaze3d/platform/Window x I
+accessible field com/mojang/blaze3d/platform/Window y I
+accessible field com/mojang/blaze3d/platform/Window width I
+accessible field com/mojang/blaze3d/platform/Window height I
+accessible field net/minecraft/client/Options pauseOnLostFocus Z

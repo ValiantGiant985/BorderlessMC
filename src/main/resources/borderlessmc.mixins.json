@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "dev.valiantgiant985.borderlessmc.mixin",
+  "client": [
+    "GuiMixin",
+    "MainMixin",
+    "VideoSettingsScreenMixin",
+    "WindowMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
